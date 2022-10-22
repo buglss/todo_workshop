@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-red": "^3.0.2"
+    "@buglss/node-red-crontinject": "^2.1.0",
+    "node-red": "^3.0.2",
+    "node-red-contrib-bcrypt": "~0.1.6",
+    "node-red-node-email": "~1.18.1"
   }
 }
